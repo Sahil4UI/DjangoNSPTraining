@@ -1,0 +1,48 @@
+What is Python?
+Python is a high level general purpose programming language
+High Level -> Python’s syntax is as simple as like English
+
+General Purpose
+1.Software Development->tkinter,Pyqt5
+2.Web Development->Django,flask,fast api,pytorch…
+3.Game Development ->pandas3d -3d and pygames(2d)
+4.automation testing -selenium
+5.Ethical hacking
+6.Data Science-> Sklearn,pandas,numpy,matplotlib,seaborn
+
+Features->
+1.Open Source
+2.dynamically typed programming
+3.Interpreted Programming
+Compiler
+Interpreter
+4.Multi Paradigm Programming
+->procedural programming->step by step
+->functional programming
+->OOPS->Object Oriented Programming
+->ASYNC Programming
+
+History
+Python->1991->Guido Vana Rossum
+Python->successor->ABC
+Guido vann rossum->circus show->Montys python flying circus
+
+Enterprise level Apps->High Security->Banking Apps->Java->secure
+
+Python->Test Engine , E Commerce App, Dashboard,CRM
+
+Data Types:
+1.int
+2.float
+3.bool
+4.String
+5.None Type
+
+Data Collection
+6.List
+7.Tuple->immutable version of list
+8.Dictionary ->JSON
+9.Sets
+10.Frozen Sets
+
+
